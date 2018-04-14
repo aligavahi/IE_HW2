@@ -43,6 +43,13 @@ header ul li{
     margin-right: 6%;
     padding: 2px;
 }
+
+header ul li:hover{
+    color: blue;
+    text-decoration: underline blue;
+    
+}
+
 header .upper{
     float: none;
     overflow: hidden;
